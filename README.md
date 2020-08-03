@@ -1,0 +1,1 @@
+# demo-spring-cloud-config-repo1
