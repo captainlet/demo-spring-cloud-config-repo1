@@ -1,1 +1,8 @@
 foo: foo-a
+
+      
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
